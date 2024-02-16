@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### En la mañana me desperte para abrir la tienda de uber eats, mire la gran combinacion de colorees de blanco y negro, colores solidos
+### Entonces dije "¿por que no hago una interfaz medianamente linda y colorida como para este tipo de plataformas?"
+### Solamente queria el diseño asi que eso mismo hice
+## todo sta hecho con tailwindcss y reactjs
